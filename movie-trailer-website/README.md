@@ -6,6 +6,7 @@
 ## Contents in the project folder
 - entertainment_center.py - driver file
 - media.py - Contains the classes
+- freash_tomatoes.py - contains embedded HTML code.
 
 ## Execution Instructions
 - Open the Python IDLE
